@@ -34,6 +34,7 @@
 - Style app using Material-UI
 - Implement in-memory distributed caching to improve scalability
 - Multiple servers behind a load balancer
+- Uncomment out credentials from server/.gitignore
 
 
 
